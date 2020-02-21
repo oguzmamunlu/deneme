@@ -1,0 +1,24 @@
+{
+  "name": "git",
+  "version": "1.0.1",
+  "description": "Yeni Eklemeler yapıldı",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oguzmamunlu/oguz.git"
+  },
+  "keywords": [
+    "git",
+    "versiyon",
+    "sistem"
+  ],
+  "author": "Oğuz Mamunlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oguzmamunlu/oguz/issues"
+  },
+  "homepage": "https://github.com/oguzmamunlu/oguz#readme"
+}
